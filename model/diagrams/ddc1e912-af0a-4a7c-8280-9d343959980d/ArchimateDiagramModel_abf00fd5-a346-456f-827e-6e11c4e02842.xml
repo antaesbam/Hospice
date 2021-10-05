@@ -7,7 +7,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="7a5e79ed-e2e3-4a2f-b248-bb19e21ab4b7">
     <bounds
-        x="48"
+        x="143"
         y="24"
         width="637"
         height="55"/>
@@ -146,5 +146,17 @@
     <archimateElement
         xsi:type="archimate:WorkPackage"
         href="WorkPackage_e13a786f-e54c-4732-ad5f-4141c599a7d7.xml#e13a786f-e54c-4732-ad5f-4141c599a7d7"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-32f96ff42ea640f28dc2e9ab55ce71d8">
+    <bounds
+        x="-12"
+        y="24"
+        width="145"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Plateau"
+        href="Plateau_id-4f69876cfbfc4bb485dde1cc9562c936.xml#id-4f69876cfbfc4bb485dde1cc9562c936"/>
   </children>
 </archimate:ArchimateDiagramModel>
